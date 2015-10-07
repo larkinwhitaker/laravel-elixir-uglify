@@ -26,6 +26,7 @@ elixir(function(mix)
 });
 ```
 
+Run gulp.
 
 ```sh
 $ gulp
