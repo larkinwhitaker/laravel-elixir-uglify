@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larkinwhitaker/"
+    "url": "git+https://github.com/larkinwhitaker/laravel-elixir-uglify.git"
   },
   "devDependencies": {
     "gulp": "^3.8.8"
