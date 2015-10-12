@@ -1,4 +1,4 @@
-# laravel-elixir-uglify
+# elixir-uglify
 
 ## Installation
 ----
