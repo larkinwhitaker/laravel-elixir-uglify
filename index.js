@@ -23,5 +23,6 @@ elixir.extend('uglify', function(sourceFile, outputFolder)
 		           // Write and Output minified js mapping file
 		           .pipe(sourcemaps.write('./'))
 				   .pipe(gulp.dest(outputFolder));
-    });
+    })
+    .watch([sourceFile]);
 });

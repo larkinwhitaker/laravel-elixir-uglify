@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/larkinwhitaker/laravel-elixir-uglify.git"
   },
-  "devDependencies": {
-    "gulp": "^3.8.8"
-  },
   "dependencies": {
     "gulp": "^3.8.8",
     "gulp-ext-replace": "^0.2.0",
